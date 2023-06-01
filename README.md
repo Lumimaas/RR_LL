@@ -30,7 +30,7 @@ Käivita programm, sisestades järgmise käsu:
 
 php
 Copy code
-python <failinimi>.py
+python failinimi.py
 
   
 Näiteks:
