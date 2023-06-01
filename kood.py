@@ -63,7 +63,7 @@ esimese_koha_kiireim_ringi_aeg = tulemused[0][3]
 
 def printLog(*args, **kwargs):
     print(*args, **kwargs)
-    with open('output.out','a') as file:
+    with open('Result.txt','a') as file:
         print(*args, **kwargs, file=file)
 
 printLog("Sõitjate tulemused:")
