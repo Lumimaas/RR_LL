@@ -29,7 +29,7 @@ Ava terminal või käsurealint ja navigeeri kausta, kuhu salvestasid koodifailid
 Käivita programm, sisestades järgmise käsu:
 
 php
-Copy code
+
 python failinimi.py
 
   
